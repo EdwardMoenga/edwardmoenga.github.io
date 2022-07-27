@@ -25,6 +25,10 @@
 <p align="center">
   <img src="https://img.shields.io/badge/androidstudio%20-%669933.svg?&style=for-the-badge&logo=androidstudio&logoColor=white" />&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/visualstudiocode%20-%231572B6.svg?&style=for-the-badge&logo=visualstudiocode&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2B%2B&logoColor=black" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=RStudio&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" />&nbsp;&nbsp;
 </p>
 <p align="center">Python, Kotlin, Java, PHP, Laravel, Javascript, HTML, CSS, TypeScript, Dart, Node.js, Firebase, AWS, Git, Github, Bitbucket.</p>
 
