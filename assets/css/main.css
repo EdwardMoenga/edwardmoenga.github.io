@@ -1274,7 +1274,7 @@ button {
   -ms-transition: -ms-transform 0.325s ease-in-out,
     -ms-filter 0.325s ease-in-out;
   transition: transform 0.325s ease-in-out, filter 0.325s ease-in-out;
-  background-color: #b60015;
+  background-color: #00a4c0;  /* b60015 */
   background-size: cover;
   z-index: 1;
 }
